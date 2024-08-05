@@ -1,6 +1,6 @@
 # Ecommerce Shopping App 
 
-A simple and minimal shopping app made with flutter.
+A simple and minimal shopping app made concept with flutter.
 
 Screenshots of the app:
 
